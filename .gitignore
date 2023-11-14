@@ -14,6 +14,6 @@ wordpress/wp-content/*
 wordpress/wp-content/plugins/*
 !wordpress/wp-content/plugins/wp-codespace
 
-!wordpress/wp-content/themes
+# !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
 !wordpress/wp-content/themes/habitus-r3
