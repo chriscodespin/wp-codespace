@@ -16,4 +16,4 @@ wordpress/wp-content/plugins/*
 
 !wordpress/wp-content/themes
 wordpress/wp-content/themes/*
-!wordpress/wp-content/themes/rosegarden
+!wordpress/wp-content/themes/habitus-r3
